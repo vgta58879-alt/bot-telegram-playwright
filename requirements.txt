@@ -1,4 +1,0 @@
-fastapi
-uvicorn[standard]
-python-telegram-bot==21.*
-playwright==1.49.0
